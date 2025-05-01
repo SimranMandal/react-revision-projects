@@ -1,13 +1,12 @@
 import React from 'react'
-import Todo from './Todo'
-
+import FormValidation from './FormValidation'
 
 const App = () => {
   return (
     <div>
-      <Todo/>
+      <FormValidation/>
     </div>
-  );
-};
+  )
+}
 
 export default App

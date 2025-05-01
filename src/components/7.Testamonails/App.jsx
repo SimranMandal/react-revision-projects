@@ -1,13 +1,12 @@
-import React from 'react'
-import Todo from './Todo'
 
+import Testamonails from './Testamonails'
 
 const App = () => {
   return (
     <div>
-      <Todo/>
+      <Testamonails/>
     </div>
-  );
-};
+  )
+}
 
 export default App

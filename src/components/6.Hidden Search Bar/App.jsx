@@ -1,13 +1,12 @@
 import React from 'react'
-import Todo from './Todo'
-
+import HiddenSearchBar from './HiddenSearchBar'
 
 const App = () => {
   return (
     <div>
-      <Todo/>
+      <HiddenSearchBar/>
     </div>
-  );
-};
+  )
+}
 
 export default App

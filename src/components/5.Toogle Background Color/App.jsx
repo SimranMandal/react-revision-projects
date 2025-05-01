@@ -1,13 +1,12 @@
 import React from 'react'
-import Todo from './Todo'
-
+import ToogleBackgroundColor from './ToogleBackgroundColor'
 
 const App = () => {
   return (
     <div>
-      <Todo/>
+      <ToogleBackgroundColor/>
     </div>
-  );
-};
+  )
+}
 
 export default App
